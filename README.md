@@ -43,3 +43,19 @@ un prompt.
         il resto del numero e' diverso da 0 
         inseriscilo nell'array tramite push
 Stampa l'array
+
+SNACK:3
+Dichiaro una variabile contenente il numero a 4 cifre
+Ricavo il valore tramite un prompt
+    SE il numero non ha 4 cifre 
+        stampera' per favore inserisci un numero valido
+    ALTRIMENTI
+        calcola la somma delle cifre
+        Dichiaro una variabile cifre e la assegno a quella
+        numero contenente le 4 cifre.split
+        cosi' da creare un array contenente le cifre della 
+        variabile numero
+        dichiaro una variabile somma
+        Creo un ciclo for dichiarando un contatore "i" che aumenta fino alla lunghezza delle cifre
+        calcolo la somma delle cifre
+        stampo la somma delle cifre
