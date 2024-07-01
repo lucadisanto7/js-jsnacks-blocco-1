@@ -12,5 +12,5 @@ if (number.length !== 4) {
     for (let i = 0; i < digits.length; i++) {
         sum += parseInt(digits[i]);
     }
-
+    document.getElementById('final-sum').innerHTML = 'La somma è :' + sum
 }
