@@ -33,3 +33,13 @@ Creo un ciclo for dichiarando un contatore "i" che aumenta fino a che non verifi
         Sei presente nella lista
     altrimenti scrivi
         Non sei presente nella lista
+
+SNACK 2:
+Creo un array vuoto
+creo un ciclo for dichiarando un contatore "i" che va da 0 a 5
+e all'interno una variabile numero che ricava il valore attraverso 
+un prompt.
+    SE
+        il resto del numero e' diverso da 0 
+        inseriscilo nell'array tramite push
+Stampa l'array
