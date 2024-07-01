@@ -12,7 +12,5 @@ if (number.length !== 4) {
     for (let i = 0; i < digits.length; i++) {
         sum += parseInt(digits[i]);
     }
-        
-    // Mostra la somma delle cifre
-    console.log("La somma delle cifre è:", sum);
+
 }
